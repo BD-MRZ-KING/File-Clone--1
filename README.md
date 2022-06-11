@@ -24,6 +24,8 @@ $ cd File-Clone--1
 
 $ python just-naw.py
 
+# Usar - KINGMRZ
+# Pass- BCZKING
 Note: (This Tools Are free , So You To Use MRZ just-naw.py Tools Enjoy)
 ```
 
